@@ -1,0 +1,6 @@
+{
+    "client_id": "l5fwK6ckuSu1zEcMStD4gK13G7ca",
+     "redirect_uri": "wso2sample://oauth2",
+     "authorization_scope": "openid",
+     "discovery_uri": "http://4495-202-164-172-203.ngrok.io/oauth2/oidcdiscovery/.well-known/openid-configuration"
+    }

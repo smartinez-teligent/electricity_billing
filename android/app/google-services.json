@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448514228113",
+    "project_id": "payment-bills",
+    "storage_bucket": "payment-bills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448514228113:android:38987840c7f0174f4ee430",
+        "android_client_info": {
+          "package_name": "com.example.bills_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448514228113-94d4s4000qlk37v6djvron6hj1brgjo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuzEjLcqCeAVs4D9Cr97ab3vLlohj8Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448514228113-94d4s4000qlk37v6djvron6hj1brgjo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
